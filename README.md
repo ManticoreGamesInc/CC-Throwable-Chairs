@@ -1,31 +1,28 @@
 <div align="center">
 
-# CC-Template-Repository
+# Throwable Chairs
 
-A ... component that does x.
+[![Build Status](https://github.com/ManticoreGamesInc/CC-Throwable-Chairs/workflows/CI/badge.svg)](https://github.com/ManticoreGamesInc/CC-Throwable-Chairs/actions/workflows/ci.yml?query=workflow%3ACI%29)
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/ManticoreGamesInc/CC-Throwable-Chairs?style=plastic)
 
-[![Build Status](https://github.com/Core-Team-META/CC-Template-Repository/workflows/CI/badge.svg)](https://github.com/Core-Team-META/CC-Template-Repository/actions/workflows/ci.yml?query=workflow%3ACI%29)
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/Core-Team-META/CC-Template-Repository?style=plastic)
-
-![TitleCard](/Screenshots/REPLACE_ME.png)
+![Preview](/Screenshots/Main.png)
 
 </div>
 
+## Finding the Component
+
+This component can be found under the **CoreAcademy** account on Community Content.
+
 ## Overview
 
-Description
+The Throwable Chairs component allows players to pick up a chair and throw it at other players, causing them to be killed. This adds a fun component to social spaces.
 
-## Setup
+## How to use
 
-Setup
+Drag the Throwable Chairs template into the Hierarchy. Enter preview mode and pick up a chair to throw it around.
 
-## Credits
+More chairs can be added by opening up the folder and creating more Chair templates.
 
-- List
-- of
-- people
+---
 
-## How to use this Template
-
-- Replace every mention of `CC-Template-Repository` with your new repository name.
-- Replace every mention of `REPLACE_ME` with the correct values.
+Credit to LootMMO for the original component.
