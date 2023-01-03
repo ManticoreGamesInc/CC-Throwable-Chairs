@@ -2,7 +2,7 @@ Assets {
   Id: 7528756236054095518
   Name: "Throwable Chairs"
   PlatformAssetType: 29
-  SerializationVersion: 121
+  SerializationVersion: 123
   VirtualFolderPath: "Throwable Chairs"
   BindingSetAsset {
     Bindings {
